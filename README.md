@@ -4,9 +4,9 @@ Projet de gestion de comptes avec des features simples
 
 ### Features
 Voici la liste des features :
-* a : Ajout de fonds dans son compte
-* b : Retraits de fonds de son compte
-* c : Visualisation des opérations
+* Ajout de fonds dans son compte
+* Retraits de fonds de son compte
+* Visualisation des opérations
 
 ## Run le projet
 
